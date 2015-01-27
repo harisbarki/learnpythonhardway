@@ -17,4 +17,4 @@ print "helo    \b\f\vlee"
 
 while True:
     for i in ["/","-","|","\\","|"]:
-        print "%s\r" % i,
+        print "%s\b\r" % i,
